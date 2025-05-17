@@ -106,7 +106,8 @@ tripTrove-main/
 📸 Screenshots
 
 💻 Dashboard
-https://raw.githubusercontent.com/KritikaSawhney/triptrove12/refs/heads/main/images%20for%20readme/Screenshot%202025-05-18%20014004.png
+![Alt Text](./images%20for%20readme/dashboard.png)
+
 
 
 
