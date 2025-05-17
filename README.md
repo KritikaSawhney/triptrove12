@@ -1,4 +1,4 @@
-# **🌍TripTrove: Your Ultimate Travel Planner**
+# 🌍 TripTrove: Your Ultimate Travel Planner
 
 ## ✨<b> Overview </b>
 
@@ -6,7 +6,7 @@ TripTrove is an AI-powered travel planning platform that transforms your trip pl
 
 Built using the latest technologies like React (TypeScript), TailwindCSS, Framer Motion, and Vite, it's hosted on Vercel for lightning-fast performance and global accessibility.
 
-## 🎯<b> Features </b>
+## 🎯 Features 
 
 ### 🧠 AI Integration
 
@@ -87,36 +87,36 @@ tripTrove-main/ <br>
 
 ## 📸 <b> Screenshots </b>
 
-## 💻 Dashboard
+## 💻 Dashboard:
 ![Alt Text](./images%20for%20readme/dashboard.png)
 
 
 
 
-## 🌄 Features
+## 🌄 Features:
 ![Alt Text](./images%20for%20readme/features_page.png)
 
 
 
 
-## 🏙️ Packing List
+## 🏙️ Packing List:
 ![Alt Text](./images%20for%20readme/packing_list.png)
 
 
 
-## 📊 Budget Tracker & Currency Converter
+## 📊 Budget Tracker & Currency Converter:
 ![Alt Text](./images%20for%20readme/currency_convertor.png)
 ![Alt Text](./images%20for%20readme/budget_tracker.png)
 
 
-## 📸 Travel Gallery
+## 📸 Travel Gallery:
 ![Alt Text](./images%20for%20readme/travel_gallery.png)
 
-## 🌄My travels
+## 🌄My travels:
 ![Alt Text](./images%20for%20readme/my_travels.png)
 
 
-## 🌟Destinations 
+## 🌟Destinations:
 ![Alt Text](./images%20for%20readme/destinations.png)
 ## 🚀 Live Demo
 
