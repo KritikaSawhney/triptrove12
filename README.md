@@ -48,33 +48,19 @@ Responsive design (mobile-first)
 
 ## 🔧 Tech Stack
 
-Category
+| Feature                     | Description                                       | Status       |
+|-----------------------------|---------------------------------------------------|--------------|
+| 🧳 Packing Checklist         | Categorized travel items                         | ✅ Completed |
+| 🌍 Destination Filter       | Emojis + region filtering                        | ✅ Completed |
+| 💱 Currency Converter       | Fake values + UI                                 | ✅ Done      |
+| ⏳ Trip Countdown & Planner | Countdown + per-day notes                        | ✅ Done      |
+| 🖼️ Travel Gallery           | Click-to-expand modals                           | ✅ Done      |
+| 💸 Budget Tracker           | Real-time total calculator                       | ✅ Done      |
+| 🗣️ Language Cheat Sheet     | Auto generator by travel type                    | ✅ Done      |
+| 🧩 Interactive Itinerary     | Drag-to-reorder day plans                        | ✅ Done      |
+| ✈️ Airport Navigator UI     | Gate filter with smooth transitions              | ✅ Done      |
+| 🎨 Visual Moodboard         | Time-based sticker placements (e.g., sunrise)   | ✅ Done      |
 
-Tech
-
-Frontend
-
-React.js + TypeScript
-
-Styling
-
-Tailwind CSS
-
-Animations
-
-Framer Motion, AOS
-
-State Mgmt
-
-Context API
-
-Deployment
-
-Vercel
-
-Icons/Visuals
-
-Heroicons, Lottie, SVG
 
 ## 📁 Folder Structure
 
