@@ -1,4 +1,4 @@
-# 🌍**TripTrove: Your Ultimate Travel Planner**
+# **🌍TripTrove: Your Ultimate Travel Planner**
 
 ## ✨<b> Overview </b>
 
