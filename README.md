@@ -1,4 +1,4 @@
-# 🌍 TripTrove: Your Ultimate Travel Planner
+# 🌍<b> TripTrove: Your Ultimate Travel Planner </b>
 
 ## ✨ Overview
 
@@ -10,31 +10,31 @@ Built using the latest technologies like React (TypeScript), TailwindCSS, Framer
 
 ### 🧠 AI Integration
 
-Get smart travel suggestions based on your preferences
+- Get smart travel suggestions based on your preferences
 
-Personalized itineraries and budget plans
+- Personalized itineraries and budget plans
 
 ### ✈️ Stunning Animations
 
-Airplane flying across the screen
+- Airplane flying across the screen
 
-Star twinkling, parallax mountain backgrounds, and animated clouds
+- Star twinkling, parallax mountain backgrounds, and animated clouds
 
-Typewriter effect for impactful texts
+- Typewriter effect for impactful texts
 
-Smooth transitions and hover effects
+- Smooth transitions and hover effects
 
 ### 🧳 All-in-One Travel Dashboard
 
-Budget Tracker: Visual charts to manage your expenses
+- Budget Tracker: Visual charts to manage your expenses
 
-Packing List: Dynamic checkboxes with animation
+- Packing List: Dynamic checkboxes with animation
 
-Destination Explorer: Filter continents with animated cards
+- Destination Explorer: Filter continents with animated cards
 
-Currency Converter: Real-time exchange info with animated UI
+- Currency Converter: Real-time exchange info with animated UI
 
-Gallery: Aesthetic image grid with hover zoom and modals
+- Gallery: Aesthetic image grid with hover zoom and modals
 
 ### 🔐 Authentication
 
