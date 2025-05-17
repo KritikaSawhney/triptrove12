@@ -60,8 +60,8 @@ Responsive design (mobile-first)
 
 ## 📁 Folder Structure
 
-tripTrove-main/
-├── public/
+tripTrove-main/ <br>
+├── public/ <br>
 ├── src/
 │   ├── components/
 │   │   └── ui/
