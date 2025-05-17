@@ -70,7 +70,7 @@ const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to="/home" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/currency" className="text-muted-foreground hover:text-foreground transition-colors">
                 Careers
               </Link>
             </li>
@@ -86,7 +86,7 @@ const Footer = () => {
           <h3 className="font-semibold text-lg mb-4">Legal</h3>
           <ul className="space-y-2">
             <li>
-              <Link to="/home" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/login" className="text-muted-foreground hover:text-foreground transition-colors">
                 Terms of Service
               </Link>
             </li>
