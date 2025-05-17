@@ -1,20 +1,20 @@
-## 🌍 TripTrove: Your Ultimate Travel Planner
+# 🌍 TripTrove: Your Ultimate Travel Planner
 
-✨ Overview
+## ✨ Overview
 
 TripTrove is an AI-powered travel planning platform that transforms your trip planning into a seamless, personalized, and visually stunning experience. From budgeting to exploring destinations, packing lists to gallery views, TripTrove is your digital travel companion.
 
 Built using the latest technologies like React (TypeScript), TailwindCSS, Framer Motion, and Vite, it's hosted on Vercel for lightning-fast performance and global accessibility.
 
-🎯 Features
+## 🎯 Features
 
-🧠 AI Integration
+### 🧠 AI Integration
 
 Get smart travel suggestions based on your preferences
 
 Personalized itineraries and budget plans
 
-✈️ Stunning Animations
+### ✈️ Stunning Animations
 
 Airplane flying across the screen
 
