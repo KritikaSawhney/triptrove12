@@ -1,12 +1,12 @@
 # 🌍<b> TripTrove: Your Ultimate Travel Planner </b>
 
-## ✨ Overview
+## ✨<b> Overview </b>
 
 TripTrove is an AI-powered travel planning platform that transforms your trip planning into a seamless, personalized, and visually stunning experience. From budgeting to exploring destinations, packing lists to gallery views, TripTrove is your digital travel companion.
 
 Built using the latest technologies like React (TypeScript), TailwindCSS, Framer Motion, and Vite, it's hosted on Vercel for lightning-fast performance and global accessibility.
 
-## 🎯 Features
+## 🎯<b> Features </b>
 
 ### 🧠 AI Integration
 
@@ -46,7 +46,7 @@ Light/Dark mode support via Tailwind + ThemeProvider
 
 Responsive design (mobile-first)
 
-## 🔧 Tech Stack
+## 🔧 <b> Tech Stack </b>
 
 | Category                   | Tech                                      | 
 |-----------------------------|---------------------------------------------------|
@@ -58,7 +58,7 @@ Responsive design (mobile-first)
 | Icons/Visuals                | Heroicons, Lottie, SVG                                  
 
 
-## 📁 Folder Structure
+## 📁 <b> Folder Structure </b>
 
 tripTrove-main/ <br>
 ├── public/ <br>
@@ -85,7 +85,7 @@ tripTrove-main/ <br>
 ├── vite.config.ts <br>
 └── tsconfig.app.json <br>
 
-## 📸 Screenshots
+## 📸 <b> Screenshots </b>
 
 ## 💻 Dashboard
 ![Alt Text](./images%20for%20readme/dashboard.png)
@@ -122,14 +122,14 @@ tripTrove-main/ <br>
 
 👉 Visit TripTrove on Vercel : https://triptrove12.vercel.app/
 
-## 🛠️ Installation
+## 🛠️ <b> Installation </b>
 
 git clone https: https://github.com/KritikaSawhney/triptrove12.git <br>
 cd triptrove <br>
 npm install <br>
 npm run dev <br>
 
-## 🤝 Team
+## 🤝<b> Team </b>
 
 Developer: Kritika Sawhney
 
