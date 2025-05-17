@@ -136,13 +136,13 @@ tripTrove-main/
 
 ## 🌟Destinations 
 ![Alt Text](./images%20for%20readme/destinations.png)
-🚀 Live Demo
+## 🚀 Live Demo
 
-## 👉 Visit TripTrove on Vercel : https://triptrove12.vercel.app/
+👉 Visit TripTrove on Vercel : https://triptrove12.vercel.app/
 
 ## 🛠️ Installation
 
-git clone https://github.com/yourusername/triptrove.git <br>
+git clone https: https://github.com/KritikaSawhney/triptrove12.git <br>
 cd triptrove <br>
 npm install <br>
 npm run dev <br>
