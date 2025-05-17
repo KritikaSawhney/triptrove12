@@ -105,7 +105,8 @@ tripTrove-main/
 
 📸 Screenshots
 
-💻 Homepage with Flying Airplane
+💻 Dashboard
+https://raw.githubusercontent.com/KritikaSawhney/triptrove12/refs/heads/main/images%20for%20readme/Screenshot%202025-05-18%20014004.png
 
 
 
