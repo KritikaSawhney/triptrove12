@@ -111,18 +111,31 @@ tripTrove-main/
 
 
 
-🌄 Animated Mountains & Parallax Effect
+🌄 Features
+![Alt Text](./images%20for%20readme/features_page.png)
 
 
 
-🏙️ Destinations Page with Filtered Cards
+
+🏙️ Packing List
+![Alt Text](./images%20for%20readme/packing_list.png)
 
 
 
 📊 Budget Tracker & Currency Converter
+![Alt Text](./images%20for%20readme/currency_convertor.png)
+![Alt Text](./images%20for%20readme/budget_tracker.png)
 
 
+📸 Travel Gallery
+![Alt Text](./images%20for%20readme/travel_gallery.png)
 
+🌄My travels
+![Alt Text](./images%20for%20readme/my_travels.png)
+
+
+🌟Destinations 
+![Alt Text](./images%20for%20readme/destinations.png)
 🚀 Live Demo
 
 👉 Visit TripTrove on Vercel
