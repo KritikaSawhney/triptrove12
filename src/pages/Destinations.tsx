@@ -46,7 +46,7 @@ const destinationsData = [
     description: 'A tropical paradise known for beautiful beaches, vibrant coral reefs, and spiritual retreats.',
     rating: 4.7,
     emoji: '🏝️',
-    image: 'https://images.unsplash.com/photo-1531060390976-9a6be1eb75dd?q=80&w=1776&auto=format',
+    image: 'https://unsplash.com/photos/green-rice-field--2WlTWZLnRc',
     fullDescription: 'Bali is an Indonesian island known for its lush terraced rice fields, varied landscape of hills and mountains, and beautiful beaches. The island is home to religious sites such as cliffside Uluwatu Temple and is renowned for its yoga and meditation retreats. Bali\'s vibrant arts scene includes traditional and modern dance, music, and crafts, while its cuisine offers rich flavors and fresh ingredients.',
     bestTimeToVisit: 'April to October',
     mustSeeAttractions: ['Ubud Sacred Monkey Forest', 'Tanah Lot Temple', 'Tegallalang Rice Terraces', 'Uluwatu Temple', 'Kuta Beach']
@@ -136,7 +136,7 @@ const destinationsData = [
     description: 'The world\'s largest coral reef system, home to diverse marine life.',
     rating: 4.9,
     emoji: '🐠',
-    image: 'https://images.unsplash.com/photo-1540149149182-b8a4c4e57365?q=80&w=1769&auto=format',
+    image: 'https://unsplash.com/photos/green-trees-beside-blue-sea-during-daytime-X9TEqJWmM6Q',
     fullDescription: 'The Great Barrier Reef is the world\'s largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers. Located in the Coral Sea off the coast of Queensland, Australia, the reef is a living treasure that hosts an incredible biodiversity, including countless species of colorful fish, mollusks, starfish, turtles, dolphins, and sharks. It\'s an extraordinary underwater wonderland perfect for snorkeling, scuba diving, and exploring by boat.',
     bestTimeToVisit: 'June to October',
     mustSeeAttractions: ['Whitsunday Islands', 'Cairns Underwater Observatory', 'Lady Elliot Island', 'Michaelmas Cay', 'Agincourt Reef']
@@ -226,7 +226,7 @@ const destinationsData = [
     description: 'Gateway to Iceland\'s stunning natural landscapes and the Northern Lights.',
     rating: 4.7,
     emoji: '❄️',
-    image: 'https://images.unsplash.com/photo-1504280317859-7f6aef78a5c6?q=80&w=1974&auto=format',
+    image: 'https://unsplash.com/photos/brown-concrete-building-near-mountain-during-daytime-CFKksjYRSQ8',
     fullDescription: 'Reykjavik, Iceland\'s coastal capital, is renowned for the late-night clubs, geothermal Blue Lagoon spa, and its proximity to the Golden Circle. The city is powered by geothermal energy and is known for its colorful houses, Viking history, and modern design. Despite being the world\'s northernmost capital of a sovereign state, it\'s a vibrant cultural hub with museums, restaurants, and an impressive arts scene. Reykjavik is also the perfect base for exploring Iceland\'s glaciers, waterfalls, and volcanic landscapes.',
     bestTimeToVisit: 'June to August (midnight sun), September to March (Northern Lights)',
     mustSeeAttractions: ['Blue Lagoon', 'Hallgrímskirkja Church', 'Northern Lights', 'Golden Circle', 'Harpa Concert Hall']
@@ -316,7 +316,7 @@ const destinationsData = [
     description: 'Vibrant city featuring a medieval medina, colorful souks, and traditional riads.',
     rating: 4.7,
     emoji: '🕌',
-    image: 'https://images.unsplash.com/photo-1531652291485-431206c32556?q=80&w=1921&auto=format',
+    image: 'https://unsplash.com/photos/brown-concrete-building-near-mountain-during-daytime-CFKksjYRSQ8',
     fullDescription: 'Marrakech is a major city in the Kingdom of Morocco. It is the fourth largest city in the country, after Casablanca, Fes and Tangier. Located to the north of the foothills of the snow-capped Atlas Mountains, Marrakech is famous for its vibrant souks (marketplaces), gardens, palaces, and mosques. The medina is a densely packed, walled medieval city dating to the Berber Empire, with mazelike alleys where thriving souks sell traditional textiles, pottery, and jewelry. A symbol of the city, and visible for miles, is the Moorish minaret of 12th-century Koutoubia Mosque.',
     bestTimeToVisit: 'March to May, October to November',
     mustSeeAttractions: ['Jemaa el-Fnaa', 'Majorelle Garden', 'Bahia Palace', 'Koutoubia Mosque', 'Medina Souks']
