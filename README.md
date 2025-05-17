@@ -62,28 +62,28 @@ Responsive design (mobile-first)
 
 tripTrove-main/ <br>
 ├── public/ <br>
-├── src/
-│   ├── components/
-│   │   └── ui/
-│   │       ├── FlyingAirplane.tsx
-│   │       ├── MountainBackground.tsx
-│   │       ├── TypewriterText.tsx
-│   │       └── ThemeToggle.tsx
-│   ├── hooks/
-│   ├── pages/
-│   │   ├── BudgetTracker.tsx
-│   │   ├── Currency.tsx
-│   │   ├── Destinations.tsx
-│   │   ├── TravelGallery.tsx
-│   │   ├── PackingList.tsx
-│   │   ├── Planner.tsx
-│   │   └── More...
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── tailwind.config.ts
-├── vite.config.ts
-└── tsconfig.app.json
+├── src/ <br>
+│   ├── components/ <br>
+│   │   └── ui/ <br>
+│   │       ├── FlyingAirplane.tsx <br>
+│   │       ├── MountainBackground.tsx <br>
+│   │       ├── TypewriterText.tsx <br>
+│   │       └── ThemeToggle.tsx <br>
+│   ├── hooks/ <br>
+│   ├── pages/ <br>
+│   │   ├── BudgetTracker.tsx <br>
+│   │   ├── Currency.tsx <br>
+│   │   ├── Destinations.tsx <br>
+│   │   ├── TravelGallery.tsx <br>
+│   │   ├── PackingList.tsx <br>
+│   │   ├── Planner.tsx <br>
+│   │   └── More... <br>
+│   ├── App.tsx <br>
+│   ├── main.tsx <br>
+│   └── index.css <br>
+├── tailwind.config.ts <br>
+├── vite.config.ts <br>
+└── tsconfig.app.json <br>
 
 ## 📸 Screenshots
 
