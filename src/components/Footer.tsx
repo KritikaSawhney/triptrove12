@@ -15,16 +15,16 @@ const Footer = () => {
             Your smart travel companion for effortless trip planning, packing, and organizing.
           </p>
           <div className="flex space-x-4">
-            <a href="#" aria-label="Twitter" className="text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://x.com/" aria-label="Twitter" className="text-muted-foreground hover:text-foreground transition-colors">
               <Twitter className="h-5 w-5" />
             </a>
-            <a href="#" aria-label="Facebook" className="text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://www.facebook.com/" aria-label="Facebook" className="text-muted-foreground hover:text-foreground transition-colors">
               <Facebook className="h-5 w-5" />
             </a>
-            <a href="#" aria-label="Instagram" className="text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://www.instagram.com/?hl=en" aria-label="Instagram" className="text-muted-foreground hover:text-foreground transition-colors">
               <Instagram className="h-5 w-5" />
             </a>
-            <a href="#" aria-label="GitHub" className="text-muted-foreground hover:text-foreground transition-colors">
+            <a href="https://github.com/" aria-label="GitHub" className="text-muted-foreground hover:text-foreground transition-colors">
               <Github className="h-5 w-5" />
             </a>
           </div>
@@ -60,22 +60,22 @@ const Footer = () => {
           <h3 className="font-semibold text-lg mb-4">Company</h3>
           <ul className="space-y-2">
             <li>
-              <Link to="/about" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/user-profile" className="text-muted-foreground hover:text-foreground transition-colors">
                 About Us
               </Link>
             </li>
             <li>
-              <Link to="/contact" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/planner" className="text-muted-foreground hover:text-foreground transition-colors">
                 Contact
               </Link>
             </li>
             <li>
-              <Link to="/careers" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/home" className="text-muted-foreground hover:text-foreground transition-colors">
                 Careers
               </Link>
             </li>
             <li>
-              <Link to="/blog" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/travel-gallery" className="text-muted-foreground hover:text-foreground transition-colors">
                 Blog
               </Link>
             </li>
@@ -86,12 +86,12 @@ const Footer = () => {
           <h3 className="font-semibold text-lg mb-4">Legal</h3>
           <ul className="space-y-2">
             <li>
-              <Link to="/terms" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/home" className="text-muted-foreground hover:text-foreground transition-colors">
                 Terms of Service
               </Link>
             </li>
             <li>
-              <Link to="/privacy" className="text-muted-foreground hover:text-foreground transition-colors">
+              <Link to="/user-profile" className="text-muted-foreground hover:text-foreground transition-colors">
                 Privacy Policy
               </Link>
             </li>
