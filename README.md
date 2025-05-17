@@ -142,24 +142,15 @@ tripTrove-main/
 
 ## 🛠️ Installation
 
-git clone https://github.com/yourusername/triptrove.git
-cd triptrove
-npm install
-npm run dev
+git clone https://github.com/yourusername/triptrove.git <br>
+cd triptrove <br>
+npm install <br>
+npm run dev <br>
 
 ## 🤝 Team
 
-Developer: Kritika SawhneyUniversity: Chitkara UniversityCourse: B.E. CSE.
+Developer: Kritika Sawhney
 
-## 🌟 Future Scope
-
-Voice-based travel search
-
-OCR-enabled passport scanning
-
-Real-time travel alerts and weather
-
-Collaborative itinerary planning
 
 ## 💬 Feedback
 
@@ -167,7 +158,7 @@ I'd love to hear from you! Open an issue or contact us for suggestions.
 
 ## 📢 Show Some Love
 
-If you liked this project, please ⭐ the repo and share it with your friends!
+If you liked this project, please ⭐ the repo and share it with your friends! <br>
 
 "Travel isn’t always pretty. It isn’t always comfortable. Sometimes it hurts... but that’s okay. The journey changes you."
 
