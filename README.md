@@ -24,7 +24,7 @@ Typewriter effect for impactful texts
 
 Smooth transitions and hover effects
 
-🧳 All-in-One Travel Dashboard
+### 🧳 All-in-One Travel Dashboard
 
 Budget Tracker: Visual charts to manage your expenses
 
@@ -36,17 +36,17 @@ Currency Converter: Real-time exchange info with animated UI
 
 Gallery: Aesthetic image grid with hover zoom and modals
 
-🔐 Authentication
+### 🔐 Authentication
 
 Secure login and signup pages with smooth page transitions and themed UI
 
-🌙 Theming & Accessibility
+### 🌙 Theming & Accessibility
 
 Light/Dark mode support via Tailwind + ThemeProvider
 
 Responsive design (mobile-first)
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 Category
 
@@ -76,7 +76,7 @@ Icons/Visuals
 
 Heroicons, Lottie, SVG
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 tripTrove-main/
 ├── public/
@@ -103,55 +103,55 @@ tripTrove-main/
 ├── vite.config.ts
 └── tsconfig.app.json
 
-📸 Screenshots
+## 📸 Screenshots
 
-💻 Dashboard
+## 💻 Dashboard
 ![Alt Text](./images%20for%20readme/dashboard.png)
 
 
 
 
-🌄 Features
+## 🌄 Features
 ![Alt Text](./images%20for%20readme/features_page.png)
 
 
 
 
-🏙️ Packing List
+## 🏙️ Packing List
 ![Alt Text](./images%20for%20readme/packing_list.png)
 
 
 
-📊 Budget Tracker & Currency Converter
+## 📊 Budget Tracker & Currency Converter
 ![Alt Text](./images%20for%20readme/currency_convertor.png)
 ![Alt Text](./images%20for%20readme/budget_tracker.png)
 
 
-📸 Travel Gallery
+## 📸 Travel Gallery
 ![Alt Text](./images%20for%20readme/travel_gallery.png)
 
-🌄My travels
+## 🌄My travels
 ![Alt Text](./images%20for%20readme/my_travels.png)
 
 
-🌟Destinations 
+## 🌟Destinations 
 ![Alt Text](./images%20for%20readme/destinations.png)
 🚀 Live Demo
 
-👉 Visit TripTrove on Vercel
+## 👉 Visit TripTrove on Vercel : https://triptrove12.vercel.app/
 
-🛠️ Installation
+## 🛠️ Installation
 
 git clone https://github.com/yourusername/triptrove.git
 cd triptrove
 npm install
 npm run dev
 
-🤝 Team
+## 🤝 Team
 
-Developer: Kritika SawhneyUniversity: Chitkara UniversityCourse: B.E. CSE, Frontend Engineering IIMentor: Mr. Shivam Singh
+Developer: Kritika SawhneyUniversity: Chitkara UniversityCourse: B.E. CSE.
 
-🌟 Future Scope
+## 🌟 Future Scope
 
 Voice-based travel search
 
@@ -161,11 +161,11 @@ Real-time travel alerts and weather
 
 Collaborative itinerary planning
 
-💬 Feedback
+## 💬 Feedback
 
-We'd love to hear from you! Open an issue or contact us for suggestions.
+I'd love to hear from you! Open an issue or contact us for suggestions.
 
-📢 Show Some Love
+## 📢 Show Some Love
 
 If you liked this project, please ⭐ the repo and share it with your friends!
 
