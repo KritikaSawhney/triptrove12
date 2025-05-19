@@ -742,7 +742,7 @@ const Home = () => {
               asChild 
               className="shadow-lg hover:shadow-xl transition-all bg-gradient-to-r from-primary to-accent text-white"
             >
-              <Link to="/signup" className="relative overflow-hidden group">
+              <Link to="/packing" className="relative overflow-hidden group">
                 <span className="relative z-10">Get Started for Free</span>
                 <motion.span 
                   className="absolute inset-0 bg-white/20"
